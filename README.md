@@ -210,8 +210,7 @@ Aplikasi menggunakan skema warna yang bold dan playful untuk tema fast food:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/hilmanmaulana1237/UTS_HilmanMaulana_PAM.git
-   cd PraktikumWireframe
+   git clone https://github.com/aldyrialdy/MyRecyclerViewDicoding/tree/modification
    ```
 
 2. **Buka di Android Studio**
@@ -329,9 +328,9 @@ dependencies {
 
 ## 👨‍💻 Developer
 
-- **Nama**: Hilman Maulana
-- **Repository**: UTS_HilmanMaulana_PAM
-- **GitHub**: hilmanmaulana1237
+- **Nama**: Nabila Aulia
+- **Repository**: UTS_NabilaAulia_PAM
+- **GitHub**: nabilaaulia15
 - **Mata Kuliah**: Pemrograman Aplikasi Mobile
 
 ## 📄 Build Status
@@ -353,17 +352,8 @@ dependencies {
 - ✨ Emoji burger dan fries untuk fun vibe
 - ✨ Range harga mid-range untuk fast food
 
-## 🙏 Terima Kasih
-
-Terima kasih kepada:
-- Dosen mata kuliah Pemrograman Aplikasi Mobile
-- Teman-teman yang telah membantu
-- Referensi Material Design dari Google
-
 ---
 
 **© 2025 Burger Express - Fast Food & Burger**
-
-*Dibuat dengan ❤️ menggunakan Kotlin & Material Design*
 
 *Build Date: 31 Oktober 2025*
