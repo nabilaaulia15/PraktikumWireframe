@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_pad">20dp</dimen>
+    <dimen name="space_s">8dp</dimen>
+    <dimen name="space_m">12dp</dimen>
+    <dimen name="space_l">20dp</dimen>
+    <dimen name="btn_h">48dp</dimen>
+    <dimen name="radius_m">8dp</dimen>
+</resources>

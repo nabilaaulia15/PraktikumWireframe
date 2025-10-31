@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="32dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/burgerRed">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/btnStart"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintVertical_chainStyle="packed">
+
+        <!-- Burger emoji -->
+        <TextView
+            android:text="🍔"
+            android:textSize="100sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:text="BURGER\nEXPRESS"
+            android:textSize="52sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:letterSpacing="0.12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/tvSubtitle"
+            android:text="FAST FOOD • BURGER • FRIES"
+            android:textSize="13sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:alpha="0.9"
+            android:gravity="center"
+            android:letterSpacing="0.15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:text="ORDER NOW!"
+        android:textColor="@color/burgerRed"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textAllCaps="true"
+        android:backgroundTint="@color/mustardYellow"
+        android:elevation="12dp"
+        android:layout_width="0dp"
+        android:layout_height="64dp"
+        app:cornerRadius="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

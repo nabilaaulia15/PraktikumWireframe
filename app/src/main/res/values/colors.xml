@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFF</color>
+    <color name="textPrimary">#111111</color>
+    <color name="textSecondary">#6B7280</color>
+    <color name="btnDark">#26282B</color>
+    <color name="fieldBorder">#E5E7EB</color>
+    <color name="cardBg">#F6F7F9</color>
+    
+    <!-- New vibrant colors - Minuman Theme -->
+    <color name="primaryOrange">#FF5722</color>
+    <color name="primaryOrangeDark">#E64A19</color>
+    <color name="accentYellow">#FFB300</color>
+    <color name="accentGreen">#00BFA5</color>
+    <color name="accentPurple">#9C27B0</color>
+    <color name="lightOrange">#FFE0B2</color>
+    <color name="lightYellow">#FFF9C4</color>
+    <color name="lightGreen">#B2DFDB</color>
+    <color name="lightPurple">#E1BEE7</color>
+    <color name="darkGray">#263238</color>
+    <color name="mediumGray">#90A4AE</color>
+    <color name="lightGrayBg">#ECEFF1</color>
+    
+    <!-- Drink Theme Colors -->
+    <color name="blueDrink">#2196F3</color>
+    <color name="pinkDrink">#E91E63</color>
+    <color name="brownDrink">#795548</color>
+    <color name="greenDrink">#4CAF50</color>
+    
+    <!-- Snack Theme Colors - Version 2 -->
+    <color name="orangeSnack">#FF9800</color>
+    <color name="redSnack">#F44336</color>
+    <color name="tealSnack">#009688</color>
+    <color name="indigoSnack">#3F51B5</color>
+    <color name="amberSnack">#FFC107</color>
+    
+    <!-- Coffee & Dessert Theme - Version 3 (Elegant & Minimalist) -->
+    <color name="coffeeDeep">#5D4037</color>
+    <color name="coffeeMocha">#8D6E63</color>
+    <color name="creamyWhite">#FFF8E1</color>
+    <color name="chocolateDark">#3E2723</color>
+    <color name="caramelGold">#D4AF37</color>
+    <color name="mintFresh">#80CBC4</color>
+    <color name="berryPink">#F48FB1</color>
+    
+    <!-- Fast Food & Burger Theme - Version 4 (Bold & Playful) -->
+    <color name="burgerRed">#D32F2F</color>
+    <color name="mustardYellow">#FDD835</color>
+    <color name="ketchupOrange">#FF6F00</color>
+    <color name="lettuceGreen">#7CB342</color>
+    <color name="cheeseGold">#FFB300</color>
+    <color name="colaBlack">#212121</color>
+    <color name="friesYellow">#FFEA00</color>
+</resources>
